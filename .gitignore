@@ -1,0 +1,15 @@
+*.ipr
+*.iml
+*.iws
+/.idea
+/build
+/.gradle/
+/.settings/
+/bin/
+/run
+/.profileconfig.json
+
+/.project
+/.classpath
+
+*.hprof
