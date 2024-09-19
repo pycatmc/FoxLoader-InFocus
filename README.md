@@ -1,6 +1,6 @@
 # In Focus
 
-*Small QoL mod for Fox Loader that toggles the auto-pause when the window is out of focus.*   
+*Small QoL mod for [Fox Loader](https://github.com/Fox2Code/FoxLoader) that toggles the auto-pause when the window is out of focus.*   
 You can contact me via discord @pycat.
 
 ## Download
