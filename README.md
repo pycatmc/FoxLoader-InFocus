@@ -1,11 +1,24 @@
-# Fox Loader Example Mod
+# TotemChanger
 
-Example mod for [FoxLoader](https://github.com/Fox2Code/FoxLoader)
+*Toggles the auto-pause when the window is out of focus.*   
+You can contact me via discord @pycat.
 
-Rat block texture by [@silveros](https://github.com/silverosre)
+## Download
+[GitHub](https://github.com/pycatMC/FoxLoader-InFocus/releases/latest)
 
-## Documentation
+## Building
+You will need:
 
-For mixins usage check here: https://github.com/2xsaiko/mixin-cheatsheet
+- Java JDK 8. (e.g. [Temurin](https://adoptium.net/))
+- 3 GB of available RAM.
+- A bit of storage.
 
-For spark usage check here: https://spark.lucko.me/docs/Command-Usage
+How to:
+- Ensure your JDK is set up properly. (i.e. JDK path is in `JAVA_HOME` environment variable)
+- Clone this repo or download it. (e.g. via `git clone https://github.com/pycatMC/FoxLoader-InFocus`)
+- Open the terminal (command prompt) there.
+- Run `./gradlew build`.
+- Grab JARs from `/build/libs/`
+
+## License
+This project is licensed under [Unlicense](https://github.com/pycatMC/FoxLoader-InFocus/blob/master/LICENSE).
